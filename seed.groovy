@@ -13,5 +13,5 @@ freeStyleJob('example') {
         shell(ls - ltr)
     }
 }
-}
+
 
