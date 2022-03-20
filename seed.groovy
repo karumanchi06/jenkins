@@ -1,5 +1,6 @@
   freeStyleJob("example") {
     scm {
+
       git {
         remote {
           name('origin')
